@@ -40,3 +40,57 @@ div div ul li{
 .new{
     color: red;
 }
+div div.hero_sec{
+    text-align: center;
+}
+div div div p.a1{
+    color: gray;
+    line-height: 50px;
+    font-size: large;
+}
+div div div h2.a2{
+    line-height: 50px;
+    font-size: large;
+    color:yellow;
+}
+div div div p.a4{
+    line-height: 50px;
+    font-size: large;
+    font-size: large;
+}
+div div div h1.a3{
+    /* */
+    /* position: absolute; */
+   
+    /* top: -2.5px; */
+    /* left: calc(50% - 155.59px);
+    letter-spacing: -0.14px;
+    line-height: 52.01px; */
+    /* display: flex; */
+    background: linear-gradient( 90deg, #2ca2b4, #5598de 24%, #7f87ff 45%, #f65aad 76%, #ec3d43 );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* align-items: center; */
+    /* justify-content: center;
+    width: 320.79px;
+    height: 58px; */
+}
+.a5{
+    line-height: 50px;
+    font-size: large;
+    padding: 10px;
+}
+#span1{
+    color: white;
+    
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    background-color: blue;
+    border-radius: 20px;
+}
+#span2{
+    color: blue;
+    padding-left: 100px;
+}
